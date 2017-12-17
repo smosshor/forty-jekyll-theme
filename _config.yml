@@ -3,7 +3,6 @@ title: SMH
 subtitle: by Sarah MH
 email: smosshorwitz@gmail.com
 description: UX, Design and Dev Projects
-baseurl: "/sarahmh
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
@@ -12,7 +11,6 @@ state: TN
 zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
-
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
